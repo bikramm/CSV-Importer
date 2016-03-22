@@ -9,8 +9,8 @@
 * Create a new database called "csvreport" and import the file "csvreport.sql"
 * Go to localhost:PORTNUMBER/CSVImporter (where PORTNUMBER is the server port) and run the application.
 
-Login Details:
-username: bikram
-password: bikram
+#####Login Details:#####
+######username: bikram######
+######password: bikram######
 
-Enjoy!
+####Enjoy!####
