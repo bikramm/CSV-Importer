@@ -10,7 +10,7 @@
 * Go to localhost:PORTNUMBER/CSVImporter (where PORTNUMBER is the server port) and run the application.
 
 #####Login Details:#####
-######username: bikram######
-######password: bikram######
+* username: bikram
+* password: bikram
 
-####Enjoy!####
+######Enjoy!######
