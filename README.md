@@ -3,7 +3,7 @@
 
 #####Installation Instruction#####
 
-* Go to https://www.mamp.info/en/ and download 
+* Go to https://www.mamp.info/en/ and download. MAMP is a software to run local server in MAC/Windows.
 * Once the software is downloaded go to htdocs folder and paste the "CSVImporter" folder
 * Go to localhost:PORT-NUMBER/phpmyadmin; where PORT-NUMBER is the server port
 * Create a new database called "csvreport" and import the file "csvreport.sql"
